@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# My website for a workshop at a robotics conference (CORL)
+
+You are an expert software developer in designing websites in pure HTML and CSS.
+I need to design a catchy and professional website to attract researchers to my workshop proposal at this year's robotics conference CORL. I want the website to be very well designed, to stand out from other workshop websites.
+The website is about the explicit use of past experience in robot learning, e.g. in-context learning, meta-learning, transduction ML, ...
+You need to assist me in designing the website.
+
+
+## Structure of my codebase
+- `index.html`: main single-page website
+- `css/`: folder with .css files
